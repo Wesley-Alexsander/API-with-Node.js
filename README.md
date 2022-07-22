@@ -176,7 +176,7 @@ Então criamos uma nova requisição.
 
 Depois mudamos o tipo da rota para **`POST`** e então passamos a **`Url`** que quermos fazer a requisição.
 
-<img src="./imgs/insomnia_host.png">
+<img src="./imgs/Insomnia_host.png">
 
 Agora só precisamos passar o conteudo da nossa requisição, para fazer isso nós vamos em body e escolhemos o formato JSON
 
