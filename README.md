@@ -118,7 +118,7 @@ app.route("/").get((req, res) => res.send("hello"))
   Lenbre-se que para observar a mudança no navegador é necessario parar o servidor usando as teclas **```Ctrl + C```** e depois rodar o nosso servidor novamente.
 
   <img src="./imgs/terminal.PNG">
-  
+  git
   Recarregue o navegador e veja o resultado.
 
   <img src="./imgs/hello.PNG">
